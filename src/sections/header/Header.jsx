@@ -11,11 +11,11 @@ const Header = () => {
         </div>
         <h3>Alana Nadolski</h3>
         <p>
-          catchy slogan/hello
+          Hi there! I am a hardworking Statistics and Computer Science student with a passion for using data to improve the lives of others. Scroll for more about me!
         </p>
         <div className='header__cta'>
-          <a href='#contact' className='btn primary'>Let's Talk</a>
-          <a href='#portfolio' className='btn light'>My Work</a>
+          <a href='#contact' className='btn primary'>I've seen enough - Let's Talk</a>
+          <a href='#portfolio' className='btn light'>Let's skip to the good stuff - My Portfolio</a>
         </div>
         <div className='header__socials'>
           {
