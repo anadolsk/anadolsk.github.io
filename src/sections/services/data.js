@@ -1,13 +1,14 @@
-import {SiAdobexd} from 'react-icons/si'
-import {RiReactjsLine} from 'react-icons/ri'
-import { FaServer } from 'react-icons/fa'
-import { AiFillAppstore } from 'react-icons/ai'
+import { HiOutlineBookOpen } from "react-icons/hi";
+import { ImStatsDots } from "react-icons/im";
+import { RiComputerLine } from "react-icons/ri";
+import { GoPersonAdd } from "react-icons/go";
+
 
 const data = [
-    {id: 1, icon: <SiAdobexd/>, title: "UI/UX Design", desc: "I can make good designs."},
-    {id: 2, icon: <RiReactjsLine/>, title: "Frontend Development", desc: "I can make products accessible on all devices."},
-    {id: 3, icon: <FaServer/>, title: "Backend Development", desc: "I can make a secure product."},
-    {id: 4, icon: <AiFillAppstore/>, title: "App Development", desc: "I can makke IOS and Android apps."},
+    {id: 1, icon: <ImStatsDots/>, title: "Statistics", desc: "Statistical Machine Learning, Causal Inference, Correlated Data, Probability, Stat Theory"},
+    {id: 2, icon: <RiComputerLine/>, title: "Computer Science", desc: "Data Structures, Software Development and Design, Algorithms, Object Oriented Programming"},
+    {id: 3, icon: <HiOutlineBookOpen/>, title: "Other Techinical Classes", desc: "Computer Science and Social Justice, Intro to GIS, Principles of Physics, Linear Algebra"},
+    {id: 4, icon: <GoPersonAdd/>, title: "Personal Development", desc: "7 Habits of Highly Reflective People, Scots LEAD program at Macalester College"},
 ]
 
 export default data

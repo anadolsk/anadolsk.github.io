@@ -4,9 +4,9 @@ import Card from '../../components/Card'
 
 const Services = () => {
   return (
-    <section id="services"
-    ><h2>My Services</h2>
-    <p> I give you the best of all the following services: </p>
+    <section id="services">
+    <h2>My Courses Taken:</h2>
+    <p></p>
     <div className='container services__container'>
         {
           data.map(item => (
