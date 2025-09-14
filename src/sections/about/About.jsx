@@ -1,6 +1,6 @@
 import './about.css'
 import AboutImage from '../../assets/colosseum.jpeg'
-import CV from '../../assets/cv.pdf'
+import Resume from '../../assets/Nadolski_Resume_Fall2025.pdf'
 import { FiDownload } from "react-icons/fi"
 import Card from '../../components/Card'
 import data from './data'
@@ -27,9 +27,14 @@ const About = () => {
                 ))
               }
           </div>
-          <p> paragraph about me</p>
-          <p> another paragraph about me</p>
-          <a href={CV} download className='btn primary'>Download Resume <FiDownload/></a>
+          <p>I am a statistics major and computer science minor at Macalester College set to graduate in May 2026.
+            After seeing so many misleading graphs and "facts" on social media, I was drawn to learning statistics which keyed me into 
+            the power of numbers. Statistics inspired me to understand and apply these methods myself which allows me to use my knowledge for good. 
+          </p>
+          <p>Other academic interests I have include classical studies, GIS, and physics. 
+            In my free time, I like to host regular gatherings with my friends to encourage community building. 
+            As captain of the Macalester Varsity Water Polo team, a lot of my time is spent at practices and furthering our team goals, ultimately giving me experience in leadership and teamwork. </p>
+          <a href={Resume} download className='btn primary'>Download Resume <FiDownload/></a>
         </div>
       </div>
     </section>
