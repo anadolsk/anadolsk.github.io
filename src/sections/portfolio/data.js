@@ -1,4 +1,4 @@
-import Image1 from '../../assets/project1.jpg'
+import Image1 from '../../assets/CI_photo.png'
 import Image2 from '../../assets/project2.jpg'
 import Image3 from '../../assets/project3.jpg'
 import Image4 from '../../assets/project4.jpg'
@@ -11,16 +11,16 @@ import Image9 from '../../assets/project9.jpg'
 const data = [
     {
         id: 1,
-        category: 'uiux',
+        category: 'Statistics',
         image: Image1,
-        title: "Project Title One (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Measuring First Impressions",
+        desc: "Does knowledge of someone’s history of criminal drug use affect your first impression of them? I explored this idea using matching and effect moderation. Completed for Causal Inference in Fall 2024.",
+        demo: "Nadolski_Causal_Final_Paper.pdf",
+        github: "Causal_Inference_Final_Project.zip"
     },
     {
         id: 2,
-        category: 'frontend',
+        category: 'Computer Science',
         image: Image2,
         title: "Project Title Two (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -29,7 +29,7 @@ const data = [
     },
     {
         id: 3,
-        category: 'frontend',
+        category: 'Statistics',
         image: Image3,
         title: "Project Title Three (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -38,7 +38,7 @@ const data = [
     },
     {
         id: 4,
-        category: 'uiux',
+        category: 'Computer Science',
         image: Image4,
         title: "Project Title Four (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -47,7 +47,7 @@ const data = [
     },
     {
         id: 5,
-        category: 'uiux',
+        category: 'Statistics',
         image: Image5,
         title: "Project Title Five (UIUX)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
@@ -56,7 +56,7 @@ const data = [
     },
     {
         id: 6,
-        category: 'frontend',
+        category: 'Computer Science',
         image: Image6,
         title: "Project Title Six (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -65,7 +65,7 @@ const data = [
     },
     {
         id: 7,
-        category: 'frontend',
+        category: 'GIS',
         image: Image7,
         title: "Project Title Seven (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -74,7 +74,7 @@ const data = [
     },
     {
         id: 8,
-        category: 'backend',
+        category: 'Statistics',
         image: Image8,
         title: "Project Title Eight (Backend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
@@ -83,7 +83,7 @@ const data = [
     },
     {
         id: 9,
-        category: 'frontend',
+        category: 'Statistics',
         image: Image9,
         title: "Project Title Nine (Frontend)",
         desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
