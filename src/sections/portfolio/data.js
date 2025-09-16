@@ -14,7 +14,7 @@ const data = [
         category: 'Statistics',
         image: Image1,
         title: "Measuring First Impressions",
-        desc: "Does knowledge of someone’s history of criminal drug use affect your first impression of them? I explored this idea using matching and effect moderation. Completed for Causal Inference in Fall 2024.",
+        desc: "Does knowledge of someone’s history of criminal drug use affect your first impression of them? I explored this idea using matching and effect moderation using R in rStudio. Individual project completed for Causal Inference in Fall 2024.",
         demo: "Nadolski_Causal_Final_Paper.pdf",
         github: "Causal_Inference_Final_Project.zip"
     },
