@@ -1,6 +1,6 @@
 import Image1 from '../../assets/CI_photo.png'
-import Image2 from '../../assets/project2.jpg'
-import Image3 from '../../assets/project3.jpg'
+import Image2 from '../../assets/sunhose.png'
+import Image3 from '../../assets/powerlifting.png'
 import Image4 from '../../assets/project4.jpg'
 import Image5 from '../../assets/project5.jpg'
 import Image6 from '../../assets/project6.jpg'
@@ -22,19 +22,19 @@ const data = [
         id: 2,
         category: 'Computer Science',
         image: Image2,
-        title: "Project Title Two (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "SUNHOSE Plant Picker",
+        desc: "The Plant Picker is designed to help you choose a good houseplant in respnose to your needs. I served as Project Manager, and we built this using Javascript, CSS, and HTML with the React framework. Semester long group project completed for Software Development in Fall 2024.",
+        demo: 'https://sunhose-plant-picker.web.app',
+        github: 'https://github.com/Dinodigger3000/sunhose-plant-picker'
     },
     {
         id: 3,
         category: 'Statistics',
         image: Image3,
-        title: "Project Title Three (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Exploring Powerlifting",
+        desc: "In this project, I practiced basic statistical modeling techniques in rStudio on a public powerlifting dataset. This includes making linear models and exploratory data visualizations. Group project completed for Introduction to Statistical Modeling in Fall 2022.",
+        demo: 'Statistical_Modeling_Final_Paper.pdf',
+        github: 'Statistical_Modeling_Final_Project.zip'
     },
     {
         id: 4,
