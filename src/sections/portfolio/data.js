@@ -4,9 +4,6 @@ import Image3 from '../../assets/powerlifting.png'
 import Image4 from '../../assets/shiny4.png'
 import Image5 from '../../assets/rps2.png'
 import Image6 from '../../assets/memory_flippers.png'
-import Image7 from '../../assets/project7.jpg'
-import Image8 from '../../assets/project8.jpg'
-import Image9 from '../../assets/project9.jpg'
 
 const data = [
     {
@@ -63,33 +60,6 @@ const data = [
         desc: "In this project, I practiced basic statistical modeling techniques in rStudio on a public powerlifting dataset. This includes making linear models and exploratory data visualizations. Group project completed for Introduction to Statistical Modeling in Fall 2022.",
         demo: 'Statistical_Modeling_Final_Paper.pdf',
         github: 'Statistical_Modeling_Final_Project.zip'
-    },
-    {
-        id: 7,
-        category: 'GIS',
-        image: Image7,
-        title: "Project Title Seven (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
-    {
-        id: 8,
-        category: 'Statistics',
-        image: Image8,
-        title: "Project Title Eight (Backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
-    {
-        id: 9,
-        category: 'Statistics',
-        image: Image9,
-        title: "Project Title Nine (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
     }
 ]
 
