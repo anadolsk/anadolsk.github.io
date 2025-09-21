@@ -1,6 +1,6 @@
 import './about.css'
 import AboutImage from '../../assets/colosseum.jpeg'
-import Resume from '../../assets/Nadolski_Resume_Fall2025.pdf'
+import Resume from '../../assets/Nadolski_Resume_September2025.pdf'
 import { FiDownload } from "react-icons/fi"
 import Card from '../../components/Card'
 import data from './data'
