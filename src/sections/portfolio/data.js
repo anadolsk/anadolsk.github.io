@@ -1,9 +1,9 @@
 import Image1 from '../../assets/CI_photo.png'
 import Image2 from '../../assets/sunhose.png'
 import Image3 from '../../assets/powerlifting.png'
-import Image4 from '../../assets/project4.jpg'
-import Image5 from '../../assets/project5.jpg'
-import Image6 from '../../assets/project6.jpg'
+import Image4 from '../../assets/shiny4.png'
+import Image5 from '../../assets/rps2.png'
+import Image6 from '../../assets/memory_flippers.png'
 import Image7 from '../../assets/project7.jpg'
 import Image8 from '../../assets/project8.jpg'
 import Image9 from '../../assets/project9.jpg'
@@ -27,41 +27,42 @@ const data = [
         demo: 'https://sunhose-plant-picker.web.app',
         github: 'https://github.com/Dinodigger3000/sunhose-plant-picker'
     },
+   
     {
         id: 3,
+        category: 'Computer Science',
+        image: Image5,
+        title: "Rock Paper Scissors Simulation",
+        desc: "Emulating simulations that were popular on social media, this runs through a crowd of objects playing Rock, Paper, Scissors. Made using Java in VSCode, this was a group project from my Data Structures class in Spring 2024.",
+        demo: null,
+        github: "https://github.com/mac-comp128-s24/128-project-alana-courtney-liv"
+    },
+    {
+        id: 4,
+        category: 'Statistics',
+        image: Image4,
+        title: "Numerical Methods Shiny App",
+        desc: "Created for my Differential Equations course, this app allows users to generate and visualize data using three different numerical methods in order to compare them. It provides a good example of my proficiency in R. This was a group project completed in Fall 2023.",
+        demo: "differential_equations_paper.pdf", 
+        github: 'https://github.com/anadolsk/Math312Project'
+    },
+    {
+        id: 5,
+        category: 'Computer Science',
+        image: Image6,
+        title: "Matching Game",
+        desc: "Our game is a recreation of the card-flipping matching games that children play, utilizing the methods emphasized in Object Oriented Programming. This was a group project from Fall 2023.",
+        demo: null,
+        github: "https://github.com/Mac-COMP-127-Fall-2023/course-project-memory-flippers"
+    },
+    {
+        id: 6,
         category: 'Statistics',
         image: Image3,
         title: "Exploring Powerlifting",
         desc: "In this project, I practiced basic statistical modeling techniques in rStudio on a public powerlifting dataset. This includes making linear models and exploratory data visualizations. Group project completed for Introduction to Statistical Modeling in Fall 2022.",
         demo: 'Statistical_Modeling_Final_Paper.pdf',
         github: 'Statistical_Modeling_Final_Project.zip'
-    },
-    {
-        id: 4,
-        category: 'Computer Science',
-        image: Image4,
-        title: "Project Title Four (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
-    },
-    {
-        id: 5,
-        category: 'Statistics',
-        image: Image5,
-        title: "Project Title Five (UIUX)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-        demo: null,
-        github: null
-    },
-    {
-        id: 6,
-        category: 'Computer Science',
-        image: Image6,
-        title: "Project Title Six (Frontend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
     },
     {
         id: 7,

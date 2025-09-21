@@ -5,10 +5,10 @@ import { GoPersonAdd } from "react-icons/go";
 
 
 const data = [
-    {id: 1, icon: <ImStatsDots/>, title: "Statistics", desc: "Statistical Machine Learning, Causal Inference, Correlated Data, Probability, Stat Theory"},
-    {id: 2, icon: <RiComputerLine/>, title: "Computer Science", desc: "Data Structures, Software Development and Design, Algorithms, Object Oriented Programming"},
-    {id: 3, icon: <HiOutlineBookOpen/>, title: "Other Techinical Classes", desc: "Computer Science and Social Justice, Intro to GIS, Principles of Physics, Linear Algebra"},
-    {id: 4, icon: <GoPersonAdd/>, title: "Personal Development", desc: "7 Habits of Highly Reflective People, Scots LEAD program at Macalester College"},
+    {id: 1, icon: <GoPersonAdd/>, title: "Work Experience", desc: "Leading weekly training sessions, using IT ticketing systems, writing technical documentation"},
+    {id: 2, icon: <ImStatsDots/>, title: "Statistics Classes", desc: "Statistical Machine Learning, Causal Inference, Correlated Data, Probability, Stat Theory"},
+    {id: 3, icon: <RiComputerLine/>, title: "Computer Science Classes", desc: "Data Structures, Software Development and Design, Algorithms, Object Oriented Programming"},
+    {id: 4, icon: <HiOutlineBookOpen/>, title: "Other Techinical Courses", desc: "Computer Science and Social Justice, Intro to GIS, Principles of Physics, Linear Algebra"},
 ]
 
 export default data
