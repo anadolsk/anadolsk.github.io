@@ -11,11 +11,14 @@ const Project = ({project}) => {
         <h4>{project.title}</h4>
         <p>{project.desc}</p>
         <div className="portfolio__project-cta">
-            <a href={project.demo} download className="btn sm" target="_blank" rel="noopner noreferrer">View Project</a>
-            <a href={project.github} download className="btn sm primary" target="_blank" rel="noopner noreferrer">Code</a>
+          {project.demo && (
+            <a href={project.demo} download className="btn sm" target="_blank" rel="noopener noreferrer" id="demo_button">View Project</a>
+          )}
+          <a href={project.github} download className="btn sm primary" target="_blank" rel="noopner noreferrer" id = "code_button">Code</a>
         </div>
     </Card>
   )
 }
+
 
 export default Project
