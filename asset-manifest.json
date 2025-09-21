@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0649756b.css",
+    "main.js": "/static/js/main.2da2463f.js",
+    "static/media/colosseum.jpeg": "/static/media/colosseum.27340f4008f5e7975213.jpeg",
+    "static/media/sunhose.png": "/static/media/sunhose.b99f17a0346018f74053.png",
+    "static/media/wedding-photo.jpeg": "/static/media/wedding-photo.c0f6c7c194e4c22ea317.jpeg",
+    "static/media/rps2.png": "/static/media/rps2.aae1462c1510f988451c.png",
+    "static/media/shiny4.png": "/static/media/shiny4.acbb6a105bc61be1fccd.png",
+    "static/media/memory_flippers.png": "/static/media/memory_flippers.7be204fc43ff82f5af37.png",
+    "static/media/powerlifting.png": "/static/media/powerlifting.8af89c0470464b139386.png",
+    "static/media/winter-portrait.JPG": "/static/media/winter-portrait.20402e3c82a7b7a71413.JPG",
+    "static/media/CI_photo.png": "/static/media/CI_photo.251655364365fe7b630d.png",
+    "static/media/Nadolski_Resume_Fall2025.pdf": "/static/media/Nadolski_Resume_Fall2025.d7e0f0c3b8473886e4fb.pdf",
+    "index.html": "/index.html",
+    "main.0649756b.css.map": "/static/css/main.0649756b.css.map",
+    "main.2da2463f.js.map": "/static/js/main.2da2463f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0649756b.css",
+    "static/js/main.2da2463f.js"
+  ]
+}
